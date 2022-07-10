@@ -62,5 +62,5 @@ function buttonAnimation(classKey) {
   classHTML.classList.add("pressed");
   setTimeout(function(){
     classHTML.classList.remove("pressed");
-  }, 100)
+  }, 20)
 }
